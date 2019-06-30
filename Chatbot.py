@@ -155,6 +155,5 @@ def main():
         answer.lower()
         cont = processInput(answer)
 
-if __name__ == "__main__":
-    intro()
-    main()
+intro()
+main()
